@@ -8,7 +8,7 @@
 
 | Component | Details |
 |---|---|
-| **OS** | CachyOS x86_64 |
+| **OS** | Arch Linux|
 | **Kernel** | Linux 7.2.2-1-cachyos |
 | **Shell** | Fish 4.9.1 |
 | **Window Manager** | Hyprland 0.56.2 (Wayland) |
@@ -22,7 +22,7 @@
 ```text
  /\_/\   kairoqx@kairoqx-linux
 ( o.o )  ---------------------
- > ^ <   OS  CachyOS x86_64
+ > ^ <   OS  Arch Linux
          Kernel  Linux 7.2.2-1-cachyos
          Uptime  1 hour, 32 mins
          Shell  fish 4.9.1
