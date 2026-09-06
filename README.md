@@ -1,7 +1,25 @@
-# Linux-dotfiles
+# 🐧 Linux Dotfiles
 
-**FASTFETCH**
+> My personal Hyprland setup running on CachyOS — minimal, clean and fast.
 
+---
+
+## 🖥️ System
+
+| Component | Details |
+|---|---|
+| **OS** | CachyOS x86_64 |
+| **Kernel** | Linux 7.2.2-1-cachyos |
+| **Shell** | Fish 4.9.1 |
+| **Window Manager** | Hyprland 0.56.2 (Wayland) |
+| **CPU** | AMD Ryzen 3 5300U |
+| **RAM** | 8 GB DDR4 |
+
+---
+
+## ⚡ Fastfetch
+
+```text
  /\_/\   kairoqx@kairoqx-linux
 ( o.o )  ---------------------
  > ^ <   OS  CachyOS x86_64
