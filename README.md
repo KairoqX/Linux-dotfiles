@@ -9,7 +9,7 @@
 | Component | Details |
 |---|---|
 | **OS** | Arch Linux|
-| **Kernel** | Linux 7.2.2-1-cachyos |
+| **Kernel** | Linux 7.2.2-1-arch |
 | **Shell** | Fish 4.9.1 |
 | **Window Manager** | Hyprland 0.56.2 (Wayland) |
 | **CPU** | AMD Ryzen 3 5300U |
@@ -23,7 +23,7 @@
  /\_/\   kairoqx@kairoqx-linux
 ( o.o )  ---------------------
  > ^ <   OS  Arch Linux
-         Kernel  Linux 7.2.2-1-cachyos
+         Kernel  Linux 7.2.2-1-arch
          Uptime  1 hour, 32 mins
          Shell  fish 4.9.1
          Window Manager  Hyprland 0.56.2 (Wayland)
