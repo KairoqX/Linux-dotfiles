@@ -1,6 +1,6 @@
 # 🐧 Linux Dotfiles
 
-> My personal Hyprland setup running on CachyOS — minimal, clean and fast.
+> My personal Hyprland setup running on Arch Linux — minimal, clean and fast.
 
 ---
 
